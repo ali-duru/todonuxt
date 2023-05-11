@@ -1,0 +1,11 @@
+{
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "Task": {
+    "description": "Auto imported from components/Task.vue"
+  },
+  "LeftAdd": {
+    "description": "Auto imported from components/Left/Add.vue"
+  }
+}

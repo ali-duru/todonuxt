@@ -1,0 +1,17 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/left-add.js": "components/left-add.js",
+    "components/nuxt-logo.js": "components/nuxt-logo.js",
+    "components/task.js": "components/task.js",
+    "pages/index.js": "pages/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/left-add.js": "components/left-add.js.map",
+    "components/nuxt-logo.js": "components/nuxt-logo.js.map",
+    "components/task.js": "components/task.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "server.js": "server.js.map"
+  }
+}
